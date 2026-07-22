@@ -1,0 +1,251 @@
+Store_ID,Store_Name,Store_Type,City,State,Region,Warehouse_ID,Manager_ID,Opening_Date,Store_Size_SqFt,Employee_Count,Latitude,Longitude,Annual_Target_INR,Performance_Tier,Status
+STR0001,Meridian Chennai Store 1,Express,Chennai,Tamil Nadu,South,WH016,EMP1001,2017-07-03,7072,36,13.0827,80.2707,48000000,Silver,Active
+STR0002,Meridian Visakhapatnam Store 2,Flagship,Visakhapatnam,Andhra Pradesh,South,WH006,EMP1002,2017-06-14,10123,139,17.6868,83.2185,43000000,Platinum,Active
+STR0003,Meridian Raipur Store 3,Mall,Raipur,Chhattisgarh,Central,WH038,EMP1003,2018-02-13,29023,11,21.2514,81.6296,15000000,Silver,Active
+STR0004,Meridian Hyderabad Store 4,Express,Hyderabad,Telangana,South,WH022,EMP1004,2016-02-23,5539,107,17.385,78.4867,11000000,Gold,Active
+STR0005,Meridian Jaipur Store 5,Express,Jaipur,Rajasthan,North,WH035,EMP1005,2016-05-26,14903,30,26.9124,75.7873,40000000,Gold,Active
+STR0006,Meridian Indore Store 6,Express,Indore,Madhya Pradesh,Central,WH003,EMP1006,2022-06-01,9967,84,22.7196,75.8577,10000000,Bronze,Active
+STR0007,Meridian Thiruvananthapuram Store 7,High Street,Thiruvananthapuram,Kerala,South,WH024,EMP1007,2016-10-28,14630,100,8.5241,76.9366,18000000,Silver,Active
+STR0008,Meridian Bengaluru Store 8,High Street,Bengaluru,Karnataka,South,WH016,EMP1008,2016-10-31,17647,107,12.9716,77.5946,22000000,Bronze,Active
+STR0009,Meridian Raipur Store 9,High Street,Raipur,Chhattisgarh,Central,WH050,EMP1009,2023-09-14,4332,68,21.2514,81.6296,7000000,Bronze,Active
+STR0010,Meridian Bengaluru Store 10,Express,Bengaluru,Karnataka,South,WH037,EMP1010,2024-10-29,26024,90,12.9716,77.5946,18000000,Silver,Active
+STR0011,Meridian Patna Store 11,Mall,Patna,Bihar,East,WH016,EMP1011,2023-05-10,20894,147,25.5941,85.1376,21000000,Silver,Active
+STR0012,Meridian Visakhapatnam Store 12,Mall,Visakhapatnam,Andhra Pradesh,South,WH009,EMP1012,2020-09-18,18671,33,17.6868,83.2185,8000000,Bronze,Active
+STR0013,Meridian Kanpur Store 13,High Street,Kanpur,Uttar Pradesh,North,WH005,EMP1013,2019-04-26,15004,129,26.4499,80.3319,38000000,Gold,Active
+STR0014,Meridian New Delhi Store 14,High Street,New Delhi,Delhi,North,WH035,EMP1014,2023-06-03,11243,97,28.6139,77.209,12000000,Gold,Active
+STR0015,Meridian New Delhi Store 15,Express,New Delhi,Delhi,North,WH049,EMP1015,2017-01-01,19135,37,28.6139,77.209,45000000,Gold,Active
+STR0016,Meridian Panaji Store 16,Mall,Panaji,Goa,West,WH049,EMP1016,2016-10-23,20174,145,15.4909,73.8278,5000000,Silver,Active
+STR0017,Meridian Coimbatore Store 17,Express,Coimbatore,Tamil Nadu,South,WH020,EMP1017,2017-09-07,4398,71,11.0168,76.9558,41000000,Bronze,Active
+STR0018,Meridian Guwahati Store 18,Express,Guwahati,Assam,East,WH035,EMP1018,2023-08-03,6620,42,26.1445,91.7362,47000000,Silver,Active
+STR0019,Meridian Udaipur Store 19,Express,Udaipur,Rajasthan,North,WH035,EMP1019,2023-06-21,26418,61,24.5854,73.7125,50000000,Gold,Active
+STR0020,Meridian Bhopal Store 20,Express,Bhopal,Madhya Pradesh,Central,WH029,EMP1020,2016-05-10,10623,67,23.2599,77.4126,9000000,Gold,Active
+STR0021,Meridian Kolkata Store 21,Flagship,Kolkata,West Bengal,East,WH046,EMP1021,2022-01-28,4429,68,22.5726,88.3639,9000000,Bronze,Active
+STR0022,Meridian Bengaluru Store 22,Mall,Bengaluru,Karnataka,South,WH032,EMP1022,2017-05-27,20169,43,12.9716,77.5946,41000000,Silver,Active
+STR0023,Meridian Guwahati Store 23,Mall,Guwahati,Assam,East,WH007,EMP1023,2022-05-23,16624,100,26.1445,91.7362,32000000,Gold,Active
+STR0024,Meridian Nagpur Store 24,High Street,Nagpur,Maharashtra,West,WH042,EMP1024,2016-02-08,4486,113,21.1458,79.0882,26000000,Bronze,Active
+STR0025,Meridian Ahmedabad Store 25,High Street,Ahmedabad,Gujarat,West,WH009,EMP1025,2019-09-25,8512,81,23.0225,72.5714,34000000,Gold,Active
+STR0026,Meridian Patna Store 26,Flagship,Patna,Bihar,East,WH035,EMP1026,2024-05-17,2983,33,25.5941,85.1376,20000000,Gold,Active
+STR0027,Meridian Surat Store 27,Express,Surat,Gujarat,West,WH011,EMP1027,2019-04-02,2570,109,21.1702,72.8311,21000000,Bronze,Active
+STR0028,Meridian Amritsar Store 28,High Street,Amritsar,Punjab,North,WH047,EMP1028,2023-10-14,20711,134,31.634,74.8723,14000000,Gold,Active
+STR0029,Meridian Nagpur Store 29,Express,Nagpur,Maharashtra,West,WH004,EMP1029,2023-05-22,12776,24,21.1458,79.0882,8000000,Silver,Active
+STR0030,Meridian Ranchi Store 30,Flagship,Ranchi,Jharkhand,East,WH033,EMP1030,2015-11-25,8589,27,23.3441,85.3096,43000000,Platinum,Active
+STR0031,Meridian Kochi Store 31,Express,Kochi,Kerala,South,WH037,EMP1031,2017-10-05,21470,20,9.9312,76.2673,44000000,Platinum,Active
+STR0032,Meridian Visakhapatnam Store 32,Express,Visakhapatnam,Andhra Pradesh,South,WH014,EMP1032,2022-07-06,25968,90,17.6868,83.2185,20000000,Gold,Active
+STR0033,Meridian Amritsar Store 33,Mall,Amritsar,Punjab,North,WH049,EMP1033,2015-10-25,2805,127,31.634,74.8723,44000000,Bronze,Active
+STR0034,Meridian Bengaluru Store 34,High Street,Bengaluru,Karnataka,South,WH009,EMP1034,2018-11-30,4754,72,12.9716,77.5946,28000000,Gold,Active
+STR0035,Meridian Raipur Store 35,High Street,Raipur,Chhattisgarh,Central,WH042,EMP1035,2020-12-06,2756,86,21.2514,81.6296,47000000,Platinum,Active
+STR0036,Meridian Jaipur Store 36,Express,Jaipur,Rajasthan,North,WH048,EMP1036,2021-03-16,7593,79,26.9124,75.7873,23000000,Silver,Active
+STR0037,Meridian Vadodara Store 37,High Street,Vadodara,Gujarat,West,WH017,EMP1037,2020-09-01,18508,74,22.3072,73.1812,8000000,Platinum,Active
+STR0038,Meridian Jaipur Store 38,Flagship,Jaipur,Rajasthan,North,WH050,EMP1038,2016-06-19,23376,77,26.9124,75.7873,15000000,Silver,Active
+STR0039,Meridian Bhubaneswar Store 39,Mall,Bhubaneswar,Odisha,East,WH045,EMP1039,2016-09-02,20377,19,20.2961,85.8245,28000000,Silver,Active
+STR0040,Meridian Hyderabad Store 40,Mall,Hyderabad,Telangana,South,WH003,EMP1040,2019-01-05,9383,73,17.385,78.4867,47000000,Platinum,Active
+STR0041,Meridian Bhubaneswar Store 41,Express,Bhubaneswar,Odisha,East,WH016,EMP1041,2024-09-11,7824,55,20.2961,85.8245,31000000,Platinum,Active
+STR0042,Meridian Faridabad Store 42,Express,Faridabad,Haryana,North,WH048,EMP1042,2024-02-03,10631,78,28.4089,77.3178,15000000,Silver,Active
+STR0043,Meridian Pune Store 43,Mall,Pune,Maharashtra,West,WH030,EMP1043,2018-12-03,12500,68,18.5204,73.8567,19000000,Platinum,Active
+STR0044,Meridian Faridabad Store 44,Express,Faridabad,Haryana,North,WH050,EMP1044,2018-02-17,14006,140,28.4089,77.3178,30000000,Silver,Active
+STR0045,Meridian Gurugram Store 45,Mall,Gurugram,Haryana,North,WH017,EMP1045,2017-01-01,21524,77,28.4595,77.0266,7000000,Platinum,Active
+STR0046,Meridian Faridabad Store 46,High Street,Faridabad,Haryana,North,WH033,EMP1046,2016-04-18,15122,58,28.4089,77.3178,21000000,Platinum,Active
+STR0047,Meridian Ranchi Store 47,Mall,Ranchi,Jharkhand,East,WH005,EMP1047,2022-06-13,13319,90,23.3441,85.3096,47000000,Bronze,Active
+STR0048,Meridian Amritsar Store 48,High Street,Amritsar,Punjab,North,WH021,EMP1048,2019-07-07,25346,85,31.634,74.8723,40000000,Platinum,Active
+STR0049,Meridian Kochi Store 49,High Street,Kochi,Kerala,South,WH020,EMP1049,2019-07-22,20454,10,9.9312,76.2673,24000000,Gold,Active
+STR0050,Meridian Visakhapatnam Store 50,High Street,Visakhapatnam,Andhra Pradesh,South,WH029,EMP1050,2022-07-30,9502,140,17.6868,83.2185,35000000,Silver,Active
+STR0051,Meridian Kanpur Store 51,Flagship,Kanpur,Uttar Pradesh,North,WH033,EMP1051,2022-06-12,23240,95,26.4499,80.3319,10000000,Bronze,Active
+STR0052,Meridian Ludhiana Store 52,Express,Ludhiana,Punjab,North,WH010,EMP1052,2015-04-11,4014,72,30.901,75.8573,35000000,Silver,Active
+STR0053,Meridian Patna Store 53,Express,Patna,Bihar,East,WH037,EMP1053,2017-03-07,26038,108,25.5941,85.1376,36000000,Gold,Active
+STR0054,Meridian New Delhi Store 54,Express,New Delhi,Delhi,North,WH015,EMP1054,2016-12-21,28849,142,28.6139,77.209,34000000,Platinum,Active
+STR0055,Meridian Coimbatore Store 55,Mall,Coimbatore,Tamil Nadu,South,WH030,EMP1055,2022-06-27,19904,91,11.0168,76.9558,33000000,Silver,Active
+STR0056,Meridian Ranchi Store 56,Express,Ranchi,Jharkhand,East,WH036,EMP1056,2020-01-01,7715,131,23.3441,85.3096,33000000,Gold,Active
+STR0057,Meridian Udaipur Store 57,High Street,Udaipur,Rajasthan,North,WH018,EMP1057,2019-12-07,5038,83,24.5854,73.7125,20000000,Gold,Active
+STR0058,Meridian Raipur Store 58,Mall,Raipur,Chhattisgarh,Central,WH015,EMP1058,2019-04-18,25239,49,21.2514,81.6296,50000000,Gold,Active
+STR0059,Meridian Faridabad Store 59,High Street,Faridabad,Haryana,North,WH014,EMP1059,2024-05-04,16267,109,28.4089,77.3178,42000000,Bronze,Renovation
+STR0060,Meridian Visakhapatnam Store 60,High Street,Visakhapatnam,Andhra Pradesh,South,WH023,EMP1060,2018-05-08,27189,109,17.6868,83.2185,31000000,Silver,Active
+STR0061,Meridian Panaji Store 61,High Street,Panaji,Goa,West,WH018,EMP1061,2019-11-21,18413,17,15.4909,73.8278,29000000,Gold,Active
+STR0062,Meridian Kochi Store 62,Express,Kochi,Kerala,South,WH009,EMP1062,2021-12-23,20002,16,9.9312,76.2673,30000000,Silver,Active
+STR0063,Meridian Mysuru Store 63,Mall,Mysuru,Karnataka,South,WH030,EMP1063,2017-01-14,4147,76,12.2958,76.6394,29000000,Gold,Active
+STR0064,Meridian Faridabad Store 64,Mall,Faridabad,Haryana,North,WH027,EMP1064,2017-10-30,29858,30,28.4089,77.3178,35000000,Platinum,Active
+STR0065,Meridian Indore Store 65,High Street,Indore,Madhya Pradesh,Central,WH050,EMP1065,2022-04-23,3819,17,22.7196,75.8577,20000000,Gold,Renovation
+STR0066,Meridian Hyderabad Store 66,Mall,Hyderabad,Telangana,South,WH043,EMP1066,2016-04-13,20980,65,17.385,78.4867,34000000,Silver,Active
+STR0067,Meridian Kanpur Store 67,High Street,Kanpur,Uttar Pradesh,North,WH048,EMP1067,2023-01-21,6253,51,26.4499,80.3319,24000000,Platinum,Renovation
+STR0068,Meridian Amritsar Store 68,Mall,Amritsar,Punjab,North,WH046,EMP1068,2017-03-23,4990,72,31.634,74.8723,11000000,Silver,Active
+STR0069,Meridian Panaji Store 69,Express,Panaji,Goa,West,WH037,EMP1069,2023-10-11,3845,98,15.4909,73.8278,39000000,Gold,Active
+STR0070,Meridian Ranchi Store 70,Flagship,Ranchi,Jharkhand,East,WH027,EMP1070,2024-03-22,18562,37,23.3441,85.3096,32000000,Bronze,Active
+STR0071,Meridian Patna Store 71,High Street,Patna,Bihar,East,WH047,EMP1071,2020-11-07,23814,79,25.5941,85.1376,44000000,Bronze,Active
+STR0072,Meridian Guwahati Store 72,High Street,Guwahati,Assam,East,WH047,EMP1072,2021-08-23,11294,92,26.1445,91.7362,20000000,Bronze,Active
+STR0073,Meridian Patna Store 73,Express,Patna,Bihar,East,WH037,EMP1073,2021-11-04,24395,107,25.5941,85.1376,26000000,Platinum,Active
+STR0074,Meridian Lucknow Store 74,Mall,Lucknow,Uttar Pradesh,North,WH017,EMP1074,2018-10-26,11663,80,26.8467,80.9462,40000000,Platinum,Active
+STR0075,Meridian Bengaluru Store 75,Express,Bengaluru,Karnataka,South,WH032,EMP1075,2021-03-24,27343,71,12.9716,77.5946,49000000,Silver,Active
+STR0076,Meridian Patna Store 76,Flagship,Patna,Bihar,East,WH015,EMP1076,2019-07-15,25168,72,25.5941,85.1376,24000000,Silver,Active
+STR0077,Meridian Raipur Store 77,High Street,Raipur,Chhattisgarh,Central,WH048,EMP1077,2021-03-04,13339,100,21.2514,81.6296,49000000,Silver,Active
+STR0078,Meridian Kolkata Store 78,Express,Kolkata,West Bengal,East,WH021,EMP1078,2016-05-04,26842,147,22.5726,88.3639,49000000,Gold,Active
+STR0079,Meridian Guwahati Store 79,Express,Guwahati,Assam,East,WH049,EMP1079,2020-11-18,22055,82,26.1445,91.7362,11000000,Bronze,Active
+STR0080,Meridian Indore Store 80,Mall,Indore,Madhya Pradesh,Central,WH046,EMP1080,2020-12-27,6647,80,22.7196,75.8577,7000000,Bronze,Active
+STR0081,Meridian Hyderabad Store 81,Mall,Hyderabad,Telangana,South,WH001,EMP1081,2021-06-09,11817,130,17.385,78.4867,35000000,Gold,Active
+STR0082,Meridian Pune Store 82,Express,Pune,Maharashtra,West,WH031,EMP1082,2016-04-12,29439,26,18.5204,73.8567,30000000,Silver,Active
+STR0083,Meridian Mumbai Store 83,Mall,Mumbai,Maharashtra,West,WH037,EMP1083,2018-05-29,5291,73,19.076,72.8777,12000000,Silver,Active
+STR0084,Meridian Panaji Store 84,Express,Panaji,Goa,West,WH025,EMP1084,2020-01-20,17007,86,15.4909,73.8278,42000000,Bronze,Active
+STR0085,Meridian Panaji Store 85,High Street,Panaji,Goa,West,WH048,EMP1085,2016-02-11,27493,63,15.4909,73.8278,45000000,Gold,Active
+STR0086,Meridian Noida Store 86,Mall,Noida,Uttar Pradesh,North,WH005,EMP1086,2016-10-03,2587,114,28.5355,77.391,33000000,Silver,Active
+STR0087,Meridian Mumbai Store 87,Mall,Mumbai,Maharashtra,West,WH019,EMP1087,2022-11-19,17377,28,19.076,72.8777,48000000,Gold,Active
+STR0088,Meridian Visakhapatnam Store 88,High Street,Visakhapatnam,Andhra Pradesh,South,WH035,EMP1088,2017-07-09,23721,48,17.6868,83.2185,22000000,Bronze,Active
+STR0089,Meridian Lucknow Store 89,High Street,Lucknow,Uttar Pradesh,North,WH037,EMP1089,2018-03-28,16890,41,26.8467,80.9462,34000000,Silver,Active
+STR0090,Meridian Udaipur Store 90,High Street,Udaipur,Rajasthan,North,WH039,EMP1090,2015-06-13,16656,92,24.5854,73.7125,43000000,Gold,Active
+STR0091,Meridian Visakhapatnam Store 91,Express,Visakhapatnam,Andhra Pradesh,South,WH044,EMP1091,2024-03-18,11331,20,17.6868,83.2185,16000000,Silver,Active
+STR0092,Meridian Jaipur Store 92,Express,Jaipur,Rajasthan,North,WH028,EMP1092,2022-02-13,29181,135,26.9124,75.7873,10000000,Silver,Active
+STR0093,Meridian Gurugram Store 93,Express,Gurugram,Haryana,North,WH022,EMP1093,2019-08-14,25230,136,28.4595,77.0266,23000000,Silver,Active
+STR0094,Meridian Raipur Store 94,High Street,Raipur,Chhattisgarh,Central,WH021,EMP1094,2017-10-30,13093,39,21.2514,81.6296,30000000,Bronze,Active
+STR0095,Meridian New Delhi Store 95,High Street,New Delhi,Delhi,North,WH013,EMP1095,2020-10-24,14354,137,28.6139,77.209,45000000,Gold,Active
+STR0096,Meridian Jaipur Store 96,Express,Jaipur,Rajasthan,North,WH029,EMP1096,2024-11-16,25380,134,26.9124,75.7873,12000000,Platinum,Active
+STR0097,Meridian Kolkata Store 97,Mall,Kolkata,West Bengal,East,WH001,EMP1097,2021-03-12,15869,33,22.5726,88.3639,19000000,Bronze,Active
+STR0098,Meridian Patna Store 98,High Street,Patna,Bihar,East,WH010,EMP1098,2020-08-03,25981,84,25.5941,85.1376,37000000,Silver,Active
+STR0099,Meridian Guwahati Store 99,Mall,Guwahati,Assam,East,WH036,EMP1099,2016-08-15,15069,58,26.1445,91.7362,43000000,Silver,Active
+STR0100,Meridian Mysuru Store 100,Express,Mysuru,Karnataka,South,WH027,EMP1100,2018-10-24,28311,139,12.2958,76.6394,22000000,Bronze,Active
+STR0101,Meridian Amritsar Store 101,Express,Amritsar,Punjab,North,WH029,EMP1101,2021-01-15,18370,98,31.634,74.8723,26000000,Silver,Active
+STR0102,Meridian Patna Store 102,Express,Patna,Bihar,East,WH045,EMP1102,2017-09-05,21236,108,25.5941,85.1376,19000000,Bronze,Active
+STR0103,Meridian Faridabad Store 103,Express,Faridabad,Haryana,North,WH025,EMP1103,2019-05-01,24247,48,28.4089,77.3178,36000000,Bronze,Active
+STR0104,Meridian Visakhapatnam Store 104,Express,Visakhapatnam,Andhra Pradesh,South,WH029,EMP1104,2016-02-13,19734,126,17.6868,83.2185,5000000,Silver,Active
+STR0105,Meridian Hyderabad Store 105,High Street,Hyderabad,Telangana,South,WH017,EMP1105,2018-10-18,22922,111,17.385,78.4867,46000000,Platinum,Active
+STR0106,Meridian Raipur Store 106,Express,Raipur,Chhattisgarh,Central,WH041,EMP1106,2023-01-22,27384,134,21.2514,81.6296,39000000,Platinum,Active
+STR0107,Meridian Ludhiana Store 107,Express,Ludhiana,Punjab,North,WH028,EMP1107,2016-02-08,27415,35,30.901,75.8573,33000000,Gold,Active
+STR0108,Meridian New Delhi Store 108,Mall,New Delhi,Delhi,North,WH004,EMP1108,2018-04-16,14246,105,28.6139,77.209,32000000,Platinum,Active
+STR0109,Meridian Visakhapatnam Store 109,Mall,Visakhapatnam,Andhra Pradesh,South,WH006,EMP1109,2021-11-01,15035,71,17.6868,83.2185,36000000,Bronze,Active
+STR0110,Meridian Patna Store 110,High Street,Patna,Bihar,East,WH043,EMP1110,2015-02-08,28866,129,25.5941,85.1376,23000000,Silver,Active
+STR0111,Meridian Patna Store 111,Express,Patna,Bihar,East,WH020,EMP1111,2022-03-02,16403,74,25.5941,85.1376,34000000,Bronze,Active
+STR0112,Meridian Thiruvananthapuram Store 112,Mall,Thiruvananthapuram,Kerala,South,WH025,EMP1112,2021-05-31,14262,85,8.5241,76.9366,49000000,Gold,Active
+STR0113,Meridian Thiruvananthapuram Store 113,Flagship,Thiruvananthapuram,Kerala,South,WH044,EMP1113,2023-09-23,26901,22,8.5241,76.9366,43000000,Silver,Active
+STR0114,Meridian Ludhiana Store 114,High Street,Ludhiana,Punjab,North,WH023,EMP1114,2017-06-16,23360,58,30.901,75.8573,44000000,Gold,Active
+STR0115,Meridian Hyderabad Store 115,Express,Hyderabad,Telangana,South,WH042,EMP1115,2015-06-11,12623,122,17.385,78.4867,7000000,Silver,Active
+STR0116,Meridian Mysuru Store 116,Mall,Mysuru,Karnataka,South,WH027,EMP1116,2016-12-20,9079,43,12.2958,76.6394,39000000,Bronze,Active
+STR0117,Meridian Ranchi Store 117,Express,Ranchi,Jharkhand,East,WH017,EMP1117,2024-03-31,18289,85,23.3441,85.3096,26000000,Bronze,Active
+STR0118,Meridian Bengaluru Store 118,Express,Bengaluru,Karnataka,South,WH015,EMP1118,2024-08-24,24661,111,12.9716,77.5946,40000000,Gold,Active
+STR0119,Meridian New Delhi Store 119,High Street,New Delhi,Delhi,North,WH030,EMP1119,2019-02-18,24547,77,28.6139,77.209,42000000,Gold,Active
+STR0120,Meridian Indore Store 120,High Street,Indore,Madhya Pradesh,Central,WH031,EMP1120,2015-04-13,22801,93,22.7196,75.8577,44000000,Gold,Active
+STR0121,Meridian Patna Store 121,High Street,Patna,Bihar,East,WH008,EMP1121,2016-07-26,3985,19,25.5941,85.1376,24000000,Bronze,Active
+STR0122,Meridian Kolkata Store 122,Mall,Kolkata,West Bengal,East,WH024,EMP1122,2022-07-09,26851,148,22.5726,88.3639,31000000,Silver,Active
+STR0123,Meridian Bhubaneswar Store 123,Express,Bhubaneswar,Odisha,East,WH040,EMP1123,2019-07-30,11666,18,20.2961,85.8245,49000000,Gold,Active
+STR0124,Meridian Siliguri Store 124,Flagship,Siliguri,West Bengal,East,WH044,EMP1124,2019-02-13,20341,101,26.7271,88.3953,8000000,Gold,Active
+STR0125,Meridian Coimbatore Store 125,Flagship,Coimbatore,Tamil Nadu,South,WH014,EMP1125,2022-03-13,23454,15,11.0168,76.9558,8000000,Silver,Active
+STR0126,Meridian Hyderabad Store 126,Flagship,Hyderabad,Telangana,South,WH049,EMP1126,2021-03-20,9288,65,17.385,78.4867,19000000,Gold,Active
+STR0127,Meridian Panaji Store 127,Mall,Panaji,Goa,West,WH010,EMP1127,2016-06-16,20201,74,15.4909,73.8278,16000000,Platinum,Active
+STR0128,Meridian Hyderabad Store 128,Mall,Hyderabad,Telangana,South,WH016,EMP1128,2021-08-08,13109,14,17.385,78.4867,16000000,Gold,Active
+STR0129,Meridian Bhubaneswar Store 129,Express,Bhubaneswar,Odisha,East,WH031,EMP1129,2020-01-11,27994,102,20.2961,85.8245,37000000,Silver,Active
+STR0130,Meridian Kolkata Store 130,Express,Kolkata,West Bengal,East,WH043,EMP1130,2020-11-05,12383,127,22.5726,88.3639,46000000,Bronze,Active
+STR0131,Meridian Guwahati Store 131,High Street,Guwahati,Assam,East,WH007,EMP1131,2020-07-01,25843,123,26.1445,91.7362,9000000,Bronze,Active
+STR0132,Meridian Hyderabad Store 132,Mall,Hyderabad,Telangana,South,WH040,EMP1132,2022-02-06,21681,150,17.385,78.4867,50000000,Gold,Active
+STR0133,Meridian Ranchi Store 133,High Street,Ranchi,Jharkhand,East,WH039,EMP1133,2019-10-29,5749,39,23.3441,85.3096,46000000,Silver,Active
+STR0134,Meridian Surat Store 134,High Street,Surat,Gujarat,West,WH015,EMP1134,2019-08-22,13606,126,21.1702,72.8311,30000000,Gold,Active
+STR0135,Meridian Bhubaneswar Store 135,High Street,Bhubaneswar,Odisha,East,WH024,EMP1135,2016-09-17,25005,131,20.2961,85.8245,9000000,Platinum,Active
+STR0136,Meridian Bhubaneswar Store 136,Express,Bhubaneswar,Odisha,East,WH024,EMP1136,2024-02-08,6763,25,20.2961,85.8245,42000000,Bronze,Active
+STR0137,Meridian Coimbatore Store 137,Mall,Coimbatore,Tamil Nadu,South,WH043,EMP1137,2023-06-01,16358,23,11.0168,76.9558,23000000,Silver,Active
+STR0138,Meridian Visakhapatnam Store 138,Mall,Visakhapatnam,Andhra Pradesh,South,WH031,EMP1138,2017-07-07,6046,99,17.6868,83.2185,40000000,Gold,Active
+STR0139,Meridian Visakhapatnam Store 139,Express,Visakhapatnam,Andhra Pradesh,South,WH036,EMP1139,2023-08-10,29318,16,17.6868,83.2185,43000000,Bronze,Active
+STR0140,Meridian Jaipur Store 140,Mall,Jaipur,Rajasthan,North,WH045,EMP1140,2023-07-20,12624,96,26.9124,75.7873,27000000,Platinum,Active
+STR0141,Meridian Visakhapatnam Store 141,Flagship,Visakhapatnam,Andhra Pradesh,South,WH048,EMP1141,2022-02-06,3504,33,17.6868,83.2185,38000000,Gold,Active
+STR0142,Meridian Gurugram Store 142,Mall,Gurugram,Haryana,North,WH047,EMP1142,2018-08-21,27955,31,28.4595,77.0266,8000000,Gold,Active
+STR0143,Meridian Nagpur Store 143,Flagship,Nagpur,Maharashtra,West,WH029,EMP1143,2022-06-04,16394,134,21.1458,79.0882,43000000,Gold,Active
+STR0144,Meridian Ranchi Store 144,Mall,Ranchi,Jharkhand,East,WH008,EMP1144,2018-03-06,24723,134,23.3441,85.3096,38000000,Silver,Renovation
+STR0145,Meridian Kochi Store 145,Flagship,Kochi,Kerala,South,WH020,EMP1145,2017-05-15,27644,45,9.9312,76.2673,21000000,Gold,Active
+STR0146,Meridian Guwahati Store 146,Mall,Guwahati,Assam,East,WH025,EMP1146,2020-12-21,25557,68,26.1445,91.7362,37000000,Silver,Active
+STR0147,Meridian Indore Store 147,Mall,Indore,Madhya Pradesh,Central,WH048,EMP1147,2015-06-23,16794,14,22.7196,75.8577,34000000,Bronze,Active
+STR0148,Meridian Visakhapatnam Store 148,High Street,Visakhapatnam,Andhra Pradesh,South,WH046,EMP1148,2022-03-07,16186,84,17.6868,83.2185,12000000,Gold,Active
+STR0149,Meridian Kanpur Store 149,High Street,Kanpur,Uttar Pradesh,North,WH045,EMP1149,2019-01-22,5387,121,26.4499,80.3319,11000000,Gold,Active
+STR0150,Meridian Ranchi Store 150,Mall,Ranchi,Jharkhand,East,WH020,EMP1150,2023-05-13,13625,66,23.3441,85.3096,26000000,Silver,Active
+STR0151,Meridian Chennai Store 151,Express,Chennai,Tamil Nadu,South,WH023,EMP1151,2018-12-09,26334,47,13.0827,80.2707,20000000,Platinum,Active
+STR0152,Meridian Kanpur Store 152,Mall,Kanpur,Uttar Pradesh,North,WH049,EMP1152,2022-05-08,4969,55,26.4499,80.3319,45000000,Silver,Active
+STR0153,Meridian Visakhapatnam Store 153,High Street,Visakhapatnam,Andhra Pradesh,South,WH037,EMP1153,2022-03-18,23317,92,17.6868,83.2185,45000000,Gold,Active
+STR0154,Meridian Guwahati Store 154,High Street,Guwahati,Assam,East,WH018,EMP1154,2021-08-19,4340,100,26.1445,91.7362,37000000,Platinum,Active
+STR0155,Meridian Mumbai Store 155,Mall,Mumbai,Maharashtra,West,WH019,EMP1155,2015-11-11,23624,33,19.076,72.8777,44000000,Silver,Active
+STR0156,Meridian Visakhapatnam Store 156,High Street,Visakhapatnam,Andhra Pradesh,South,WH037,EMP1156,2022-04-23,8668,92,17.6868,83.2185,43000000,Silver,Active
+STR0157,Meridian Pune Store 157,Mall,Pune,Maharashtra,West,WH022,EMP1157,2023-01-04,5263,139,18.5204,73.8567,46000000,Gold,Active
+STR0158,Meridian Patna Store 158,High Street,Patna,Bihar,East,WH040,EMP1158,2016-10-12,14424,105,25.5941,85.1376,23000000,Gold,Active
+STR0159,Meridian Panaji Store 159,Express,Panaji,Goa,West,WH042,EMP1159,2018-10-02,4659,94,15.4909,73.8278,11000000,Silver,Active
+STR0160,Meridian Jaipur Store 160,Mall,Jaipur,Rajasthan,North,WH038,EMP1160,2022-06-11,7134,99,26.9124,75.7873,24000000,Bronze,Active
+STR0161,Meridian Kochi Store 161,High Street,Kochi,Kerala,South,WH006,EMP1161,2018-06-22,20814,106,9.9312,76.2673,46000000,Silver,Active
+STR0162,Meridian Ranchi Store 162,High Street,Ranchi,Jharkhand,East,WH028,EMP1162,2020-09-13,14356,14,23.3441,85.3096,28000000,Gold,Active
+STR0163,Meridian Faridabad Store 163,Mall,Faridabad,Haryana,North,WH009,EMP1163,2016-09-26,5028,85,28.4089,77.3178,11000000,Silver,Active
+STR0164,Meridian Ranchi Store 164,High Street,Ranchi,Jharkhand,East,WH050,EMP1164,2021-12-06,6794,106,23.3441,85.3096,14000000,Gold,Active
+STR0165,Meridian Panaji Store 165,Express,Panaji,Goa,West,WH003,EMP1165,2019-08-10,14437,70,15.4909,73.8278,33000000,Silver,Active
+STR0166,Meridian Patna Store 166,High Street,Patna,Bihar,East,WH020,EMP1166,2024-01-26,28202,130,25.5941,85.1376,17000000,Gold,Active
+STR0167,Meridian Patna Store 167,Express,Patna,Bihar,East,WH050,EMP1167,2019-04-14,18979,145,25.5941,85.1376,31000000,Bronze,Active
+STR0168,Meridian Panaji Store 168,Express,Panaji,Goa,West,WH004,EMP1168,2022-03-11,18247,105,15.4909,73.8278,40000000,Bronze,Active
+STR0169,Meridian Ranchi Store 169,Mall,Ranchi,Jharkhand,East,WH049,EMP1169,2016-10-18,11438,125,23.3441,85.3096,37000000,Platinum,Active
+STR0170,Meridian Siliguri Store 170,Express,Siliguri,West Bengal,East,WH002,EMP1170,2019-08-27,4245,111,26.7271,88.3953,37000000,Gold,Active
+STR0171,Meridian Mysuru Store 171,Mall,Mysuru,Karnataka,South,WH021,EMP1171,2016-02-10,29998,95,12.2958,76.6394,14000000,Platinum,Active
+STR0172,Meridian Guwahati Store 172,Express,Guwahati,Assam,East,WH031,EMP1172,2020-01-12,22663,11,26.1445,91.7362,10000000,Platinum,Active
+STR0173,Meridian Hyderabad Store 173,Mall,Hyderabad,Telangana,South,WH019,EMP1173,2017-08-31,12368,41,17.385,78.4867,8000000,Gold,Active
+STR0174,Meridian Panaji Store 174,Flagship,Panaji,Goa,West,WH032,EMP1174,2021-09-10,20065,14,15.4909,73.8278,45000000,Silver,Active
+STR0175,Meridian Hyderabad Store 175,High Street,Hyderabad,Telangana,South,WH040,EMP1175,2018-12-16,10382,116,17.385,78.4867,16000000,Silver,Active
+STR0176,Meridian Indore Store 176,Express,Indore,Madhya Pradesh,Central,WH035,EMP1176,2020-09-09,28269,139,22.7196,75.8577,40000000,Platinum,Active
+STR0177,Meridian Nagpur Store 177,Mall,Nagpur,Maharashtra,West,WH024,EMP1177,2017-11-04,26988,14,21.1458,79.0882,27000000,Silver,Active
+STR0178,Meridian Coimbatore Store 178,Mall,Coimbatore,Tamil Nadu,South,WH023,EMP1178,2021-02-14,13593,54,11.0168,76.9558,48000000,Silver,Active
+STR0179,Meridian Noida Store 179,Flagship,Noida,Uttar Pradesh,North,WH050,EMP1179,2020-02-18,3711,85,28.5355,77.391,17000000,Platinum,Active
+STR0180,Meridian Pune Store 180,Express,Pune,Maharashtra,West,WH033,EMP1180,2019-06-20,29219,149,18.5204,73.8567,35000000,Gold,Active
+STR0181,Meridian Surat Store 181,Mall,Surat,Gujarat,West,WH050,EMP1181,2015-07-15,23987,94,21.1702,72.8311,22000000,Platinum,Active
+STR0182,Meridian Thiruvananthapuram Store 182,Express,Thiruvananthapuram,Kerala,South,WH025,EMP1182,2018-10-20,8621,137,8.5241,76.9366,49000000,Silver,Active
+STR0183,Meridian Ranchi Store 183,Express,Ranchi,Jharkhand,East,WH047,EMP1183,2019-10-05,5086,120,23.3441,85.3096,43000000,Bronze,Active
+STR0184,Meridian Amritsar Store 184,Mall,Amritsar,Punjab,North,WH021,EMP1184,2022-05-31,12187,88,31.634,74.8723,33000000,Silver,Active
+STR0185,Meridian Patna Store 185,High Street,Patna,Bihar,East,WH047,EMP1185,2024-10-03,14052,121,25.5941,85.1376,22000000,Silver,Active
+STR0186,Meridian Mumbai Store 186,High Street,Mumbai,Maharashtra,West,WH026,EMP1186,2019-01-28,19312,50,19.076,72.8777,6000000,Platinum,Active
+STR0187,Meridian Patna Store 187,Mall,Patna,Bihar,East,WH016,EMP1187,2023-09-24,23640,103,25.5941,85.1376,28000000,Gold,Active
+STR0188,Meridian Panaji Store 188,High Street,Panaji,Goa,West,WH024,EMP1188,2019-03-04,17047,29,15.4909,73.8278,41000000,Platinum,Active
+STR0189,Meridian Faridabad Store 189,Mall,Faridabad,Haryana,North,WH008,EMP1189,2015-04-17,26606,57,28.4089,77.3178,36000000,Silver,Active
+STR0190,Meridian Coimbatore Store 190,Express,Coimbatore,Tamil Nadu,South,WH046,EMP1190,2020-01-02,9531,83,11.0168,76.9558,49000000,Bronze,Active
+STR0191,Meridian Chennai Store 191,Express,Chennai,Tamil Nadu,South,WH029,EMP1191,2016-12-08,25875,123,13.0827,80.2707,10000000,Bronze,Active
+STR0192,Meridian Faridabad Store 192,Express,Faridabad,Haryana,North,WH036,EMP1192,2021-01-29,12014,86,28.4089,77.3178,15000000,Silver,Active
+STR0193,Meridian Lucknow Store 193,High Street,Lucknow,Uttar Pradesh,North,WH008,EMP1193,2017-04-03,28454,45,26.8467,80.9462,20000000,Silver,Renovation
+STR0194,Meridian Raipur Store 194,High Street,Raipur,Chhattisgarh,Central,WH036,EMP1194,2016-06-15,22552,32,21.2514,81.6296,9000000,Gold,Active
+STR0195,Meridian Guwahati Store 195,Express,Guwahati,Assam,East,WH037,EMP1195,2015-10-30,6606,91,26.1445,91.7362,46000000,Platinum,Active
+STR0196,Meridian Ranchi Store 196,Mall,Ranchi,Jharkhand,East,WH050,EMP1196,2021-03-08,23464,56,23.3441,85.3096,13000000,Gold,Active
+STR0197,Meridian Mumbai Store 197,High Street,Mumbai,Maharashtra,West,WH020,EMP1197,2016-11-05,7807,92,19.076,72.8777,50000000,Gold,Active
+STR0198,Meridian Ranchi Store 198,Express,Ranchi,Jharkhand,East,WH017,EMP1198,2017-03-15,23309,80,23.3441,85.3096,13000000,Silver,Active
+STR0199,Meridian Bengaluru Store 199,High Street,Bengaluru,Karnataka,South,WH038,EMP1199,2016-09-23,8109,96,12.9716,77.5946,41000000,Platinum,Active
+STR0200,Meridian Bengaluru Store 200,Express,Bengaluru,Karnataka,South,WH050,EMP1200,2021-06-20,11172,63,12.9716,77.5946,41000000,Gold,Active
+STR0201,Meridian Guwahati Store 201,High Street,Guwahati,Assam,East,WH020,EMP1201,2020-06-01,10524,113,26.1445,91.7362,24000000,Silver,Active
+STR0202,Meridian Lucknow Store 202,High Street,Lucknow,Uttar Pradesh,North,WH030,EMP1202,2017-04-15,13647,46,26.8467,80.9462,25000000,Bronze,Active
+STR0203,Meridian Bhopal Store 203,Mall,Bhopal,Madhya Pradesh,Central,WH024,EMP1203,2020-10-10,20904,37,23.2599,77.4126,25000000,Gold,Active
+STR0204,Meridian Patna Store 204,Mall,Patna,Bihar,East,WH004,EMP1204,2018-04-03,15087,117,25.5941,85.1376,20000000,Bronze,Active
+STR0205,Meridian Faridabad Store 205,Mall,Faridabad,Haryana,North,WH011,EMP1205,2020-08-02,19366,129,28.4089,77.3178,36000000,Bronze,Active
+STR0206,Meridian Mysuru Store 206,High Street,Mysuru,Karnataka,South,WH016,EMP1206,2017-05-31,21615,100,12.2958,76.6394,8000000,Platinum,Active
+STR0207,Meridian Guwahati Store 207,High Street,Guwahati,Assam,East,WH007,EMP1207,2019-11-01,6888,77,26.1445,91.7362,28000000,Silver,Active
+STR0208,Meridian Kochi Store 208,High Street,Kochi,Kerala,South,WH013,EMP1208,2019-01-24,20628,83,9.9312,76.2673,9000000,Gold,Active
+STR0209,Meridian Raipur Store 209,Express,Raipur,Chhattisgarh,Central,WH040,EMP1209,2022-08-18,22522,40,21.2514,81.6296,13000000,Bronze,Active
+STR0210,Meridian Faridabad Store 210,Express,Faridabad,Haryana,North,WH013,EMP1210,2021-10-03,19182,112,28.4089,77.3178,37000000,Platinum,Renovation
+STR0211,Meridian Faridabad Store 211,High Street,Faridabad,Haryana,North,WH010,EMP1211,2021-10-19,19392,45,28.4089,77.3178,25000000,Bronze,Active
+STR0212,Meridian Thiruvananthapuram Store 212,High Street,Thiruvananthapuram,Kerala,South,WH033,EMP1212,2024-04-15,19202,146,8.5241,76.9366,36000000,Silver,Active
+STR0213,Meridian New Delhi Store 213,Mall,New Delhi,Delhi,North,WH008,EMP1213,2019-09-03,21626,88,28.6139,77.209,49000000,Silver,Active
+STR0214,Meridian Jaipur Store 214,Express,Jaipur,Rajasthan,North,WH038,EMP1214,2020-05-21,8087,144,26.9124,75.7873,45000000,Silver,Active
+STR0215,Meridian Kochi Store 215,Express,Kochi,Kerala,South,WH016,EMP1215,2015-05-10,21261,38,9.9312,76.2673,17000000,Platinum,Active
+STR0216,Meridian Hyderabad Store 216,High Street,Hyderabad,Telangana,South,WH027,EMP1216,2020-08-17,27894,130,17.385,78.4867,8000000,Silver,Active
+STR0217,Meridian Raipur Store 217,Express,Raipur,Chhattisgarh,Central,WH031,EMP1217,2020-11-22,14847,90,21.2514,81.6296,16000000,Silver,Active
+STR0218,Meridian Raipur Store 218,High Street,Raipur,Chhattisgarh,Central,WH047,EMP1218,2022-08-20,23579,77,21.2514,81.6296,44000000,Silver,Active
+STR0219,Meridian Udaipur Store 219,Mall,Udaipur,Rajasthan,North,WH020,EMP1219,2023-08-25,11970,63,24.5854,73.7125,49000000,Silver,Active
+STR0220,Meridian Bhopal Store 220,Mall,Bhopal,Madhya Pradesh,Central,WH037,EMP1220,2022-08-03,20299,107,23.2599,77.4126,30000000,Bronze,Active
+STR0221,Meridian Hyderabad Store 221,Flagship,Hyderabad,Telangana,South,WH046,EMP1221,2015-11-20,13849,123,17.385,78.4867,46000000,Gold,Active
+STR0222,Meridian Vadodara Store 222,Mall,Vadodara,Gujarat,West,WH036,EMP1222,2022-10-22,11400,45,22.3072,73.1812,11000000,Silver,Active
+STR0223,Meridian Kolkata Store 223,High Street,Kolkata,West Bengal,East,WH034,EMP1223,2017-07-13,23404,69,22.5726,88.3639,8000000,Platinum,Active
+STR0224,Meridian Guwahati Store 224,High Street,Guwahati,Assam,East,WH009,EMP1224,2015-01-22,20533,50,26.1445,91.7362,31000000,Silver,Active
+STR0225,Meridian Guwahati Store 225,High Street,Guwahati,Assam,East,WH049,EMP1225,2018-03-22,13024,83,26.1445,91.7362,46000000,Platinum,Active
+STR0226,Meridian Visakhapatnam Store 226,High Street,Visakhapatnam,Andhra Pradesh,South,WH047,EMP1226,2024-07-14,3722,54,17.6868,83.2185,31000000,Bronze,Active
+STR0227,Meridian Pune Store 227,Express,Pune,Maharashtra,West,WH012,EMP1227,2023-05-26,11985,19,18.5204,73.8567,5000000,Gold,Active
+STR0228,Meridian Faridabad Store 228,High Street,Faridabad,Haryana,North,WH042,EMP1228,2021-02-03,19680,136,28.4089,77.3178,13000000,Bronze,Active
+STR0229,Meridian Ahmedabad Store 229,Mall,Ahmedabad,Gujarat,West,WH047,EMP1229,2020-02-23,23743,75,23.0225,72.5714,50000000,Gold,Active
+STR0230,Meridian Ludhiana Store 230,Mall,Ludhiana,Punjab,North,WH041,EMP1230,2019-07-19,29598,119,30.901,75.8573,37000000,Gold,Active
+STR0231,Meridian Chennai Store 231,Express,Chennai,Tamil Nadu,South,WH031,EMP1231,2018-08-18,10628,11,13.0827,80.2707,21000000,Gold,Active
+STR0232,Meridian Udaipur Store 232,Mall,Udaipur,Rajasthan,North,WH047,EMP1232,2021-06-04,2874,76,24.5854,73.7125,46000000,Gold,Active
+STR0233,Meridian Coimbatore Store 233,Mall,Coimbatore,Tamil Nadu,South,WH026,EMP1233,2022-09-11,18966,89,11.0168,76.9558,49000000,Platinum,Active
+STR0234,Meridian Amritsar Store 234,High Street,Amritsar,Punjab,North,WH015,EMP1234,2016-07-01,18169,49,31.634,74.8723,34000000,Silver,Active
+STR0235,Meridian Bhubaneswar Store 235,Express,Bhubaneswar,Odisha,East,WH043,EMP1235,2024-04-04,9656,73,20.2961,85.8245,48000000,Silver,Active
+STR0236,Meridian Mysuru Store 236,High Street,Mysuru,Karnataka,South,WH024,EMP1236,2015-11-16,20986,38,12.2958,76.6394,8000000,Bronze,Active
+STR0237,Meridian Vadodara Store 237,High Street,Vadodara,Gujarat,West,WH011,EMP1237,2018-09-05,19550,123,22.3072,73.1812,12000000,Silver,Active
+STR0238,Meridian Guwahati Store 238,Express,Guwahati,Assam,East,WH029,EMP1238,2024-01-26,4323,126,26.1445,91.7362,13000000,Silver,Active
+STR0239,Meridian Nagpur Store 239,High Street,Nagpur,Maharashtra,West,WH020,EMP1239,2023-02-10,3213,111,21.1458,79.0882,21000000,Bronze,Active
+STR0240,Meridian Visakhapatnam Store 240,Flagship,Visakhapatnam,Andhra Pradesh,South,WH023,EMP1240,2022-11-08,4589,148,17.6868,83.2185,8000000,Bronze,Active
+STR0241,Meridian Guwahati Store 241,Mall,Guwahati,Assam,East,WH012,EMP1241,2023-08-16,6937,117,26.1445,91.7362,28000000,Bronze,Active
+STR0242,Meridian Thiruvananthapuram Store 242,Flagship,Thiruvananthapuram,Kerala,South,WH043,EMP1242,2024-10-22,20171,44,8.5241,76.9366,46000000,Bronze,Active
+STR0243,Meridian Raipur Store 243,High Street,Raipur,Chhattisgarh,Central,WH047,EMP1243,2017-07-01,29855,10,21.2514,81.6296,6000000,Bronze,Active
+STR0244,Meridian Raipur Store 244,High Street,Raipur,Chhattisgarh,Central,WH015,EMP1244,2017-10-10,17593,98,21.2514,81.6296,14000000,Gold,Active
+STR0245,Meridian Chennai Store 245,Express,Chennai,Tamil Nadu,South,WH027,EMP1245,2021-11-23,27602,14,13.0827,80.2707,20000000,Gold,Active
+STR0246,Meridian Pune Store 246,High Street,Pune,Maharashtra,West,WH046,EMP1246,2024-10-12,4095,72,18.5204,73.8567,7000000,Gold,Active
+STR0247,Meridian Ahmedabad Store 247,Mall,Ahmedabad,Gujarat,West,WH019,EMP1247,2017-08-17,29231,91,23.0225,72.5714,41000000,Silver,Active
+STR0248,Meridian Gurugram Store 248,Mall,Gurugram,Haryana,North,WH010,EMP1248,2022-05-28,19580,66,28.4595,77.0266,31000000,Gold,Active
+STR0249,Meridian Visakhapatnam Store 249,High Street,Visakhapatnam,Andhra Pradesh,South,WH028,EMP1249,2021-03-26,18740,22,17.6868,83.2185,27000000,Bronze,Active
+STR0250,Meridian Ranchi Store 250,High Street,Ranchi,Jharkhand,East,WH027,EMP1250,2016-09-03,12326,106,23.3441,85.3096,16000000,Silver,Active
